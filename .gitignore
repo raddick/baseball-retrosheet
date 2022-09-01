@@ -1,3 +1,7 @@
+# Data files
+archive.zip
+events_with_context/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
