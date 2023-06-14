@@ -1,7 +1,0 @@
-GitHub
-origin	git@github.com:raddick/retrosheet-new-website.git (fetch)
-origin	git@github.com:raddick/retrosheet-new-website.git (push)
-
-Pantheon
-origin	ssh://codeserver.dev.07c5f374-9de2-4ae3-a9e2-8709e4922cd4@codeserver.dev.07c5f374-9de2-4ae3-a9e2-8709e4922cd4.drush.in:2222/~/repository.git (fetch)
-origin	ssh://codeserver.dev.07c5f374-9de2-4ae3-a9e2-8709e4922cd4@codeserver.dev.07c5f374-9de2-4ae3-a9e2-8709e4922cd4.drush.in:2222/~/repository.git (push)
