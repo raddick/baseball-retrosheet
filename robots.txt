@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /boxesetc/
+Disallow: //boxesetc/
+Disallow: /gamelogs/
+Disallow: //gamelogs/

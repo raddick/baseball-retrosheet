@@ -1,0 +1,101 @@
+/*** ESSENTIAL STYLES ***/
+.nav, .nav * {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-size: small;
+}
+.nav {
+	line-height: 0.7;
+}
+.nav ul {
+	position: absolute;
+	top: -999em;
+	width: 9.75em;
+}
+.nav ul li,
+.nav a {
+	width: 100%;
+}
+.nav li {
+	float: left;
+	position: relative;
+	z-index: 99;
+}
+.nav a {
+	display: block;
+}
+.nav li:hover ul,
+ul.nav li.sfHover ul {
+	left: -1px;
+	top: 2.2em;
+}
+.nav li:hover li ul,
+.nav li.sfHover li ul {
+	top: -999em;
+}
+.nav li li:hover ul,
+ul.nav li li.sfHover ul {
+	left: 9.75em;
+	top: -1px;
+}
+.superfish li:hover ul,
+.superfish li li:hover ul {
+	top: -999em;
+}
+
+/*** ORIGINAL SKIN ***/
+.nav {
+	float: left;
+	margin-bottom: 1em;
+	border-right: 1px solid #aec9aa;
+	border-bottom: 1px solid #aec9aa;
+}
+.nav li {
+	background: #ffffff;
+	border-left: 1px solid #aec9aa;
+	border-top: 1px solid #aec9aa;
+	width: 9.75em;
+}
+.nav a {
+	color: #406830;
+	padding: .75em 0;
+	text-decoration: none;
+	text-indent: 0.25em;
+}
+.nav li:hover, .nav li.sfHover,
+.nav a:focus, .nav a:hover, .nav a:active {
+	background: #d1dfc9;
+}
+.nav li li {
+	background: #aec9aa;
+	border-top: 1px solid #fff;
+	border-right: 1px solid #fff;
+	border-left: 1px solid #fff;
+}
+.nav li li li {
+	background: #aec9aa;
+}
+
+/* center the menubar */
+.mbcenter {
+    margin-left: auto;
+	margin-right: auto;
+	width: 59em;
+}
+/* center the logo */
+img.bancenter {
+    display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 0px;
+}
+/* reduce overall logo height */
+p.nopad {
+	margin: 0.6em;
+	padding: 0em;
+}
+/* force new line after menubar */
+.clearboth {
+	clear: both;
+}

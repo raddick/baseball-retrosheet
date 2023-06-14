@@ -1,0 +1,27 @@
+Version 1.00 - 29-Jan-1987
+80 48
+SRCH:frisch
+SRC:eb?
+DST:dis
+> 0 0 80 48
+ z:\bb\website\releases\12s\index~1.htm 0 0 0 0
+ z:\bb\website\releases\12s\makedis.bat 0 0 0 9
+ z:\bb\website\releases\12s\makegl.bat 0 121 0 142
+ z:\bb\website\releases\12s\makeev.bat 0 0 0 0
+ z:\bb\website\releases\12s\makeas.bat 0 68 0 82
+ z:\bb\website\releases\12s\makebox.bat 0 189 0 196
+ z:\bb\website\releases\12s\blot.bat 0 0 0 0
+ z:\bb\website\releases\12s\blotdir 0 0 1 1
+ z:\bb\website\releases\12s\xoh.htm 31 355 105 358
+ z:\bb\1948\1948nl.dis 0 0 0 0
+ z:\bb\website\releases\12s\makedec.bat 0 0 0 0
+ z:\bb\website\releases\12s\makepost.bat 0 96 0 96
+ z:\bb\website\releases\12s\blot. 0 0 0 0
+ z:\bb\website\releases\12s\blot 0 48 25 55
+ z:\bb\checkall.bat 0 133 38 135
+ z:\bb\website\releases\notes.txt 0 0 28 25
+ z:\bb\website\releases\12s\filecopy.bat 0 1125 0 1171
+ z:\bb\website\releases\12s\notes.txt 0 0 13 14
+ z:\bb\website\releases\12s\update11.bat 0 0 0 0
+ z:\bb\website\releases\12s\evcopy.bat 0 0 0 0
+

@@ -1,0 +1,130 @@
+This is a description of the new records created to support "Game Files".
+The purpose of Game Files is to provide information on Negro League games for
+which box-score level data are not available.
+
+Game Files are marked by a file name extension of ".gf"
+
+Game Files are modeled after Box-Score Event Files (*.eb?) with some additional
+records introduced to convey information that may be available which cannot be
+calculated directly from box-score level data which may be incomplete. A
+description of box-score event files can be found at Retrosheet's website
+(https://retrosheet.org/boxfile.txt).
+
+In addition to the introduction of some new lines, which are described below,
+unknown or uncertain information is identified somewhat differently in game
+files. Data which are unknown are identified in game files by a ? (unknown
+information is identified by the number -1 in box-score files). In addition, if
+there are any data for which the number is known to be greater than zero but not
+known with certainty (e.g., a batter had at least one hit in the game), the
+number of known instances will be followed by an i (e.g., "1i" would indicate
+at least one of the relevant statistic).
+
+As with box-score and event files, each game record will begin with a line
+identifying the game id.
+id,{GameID}
+
+The second line will identify the file version
+version,5
+
+This distinguishes game files (version 5) from earlier file types.
+
+As with box-score event files, the record types within a game file may appear
+in any order. In addition, all sequence information within record types is 
+explicitly described in each record and is not implied by its order in the file.
+
+The new record types:
+
+info,gametype,
+
+This identifies the type of game. Game types will take one of the following values:
+
+  Ex -> Exhibition game
+  AS -> All-Star game
+  PS -> Playoff game
+  IL -> Inter-League Exhibition game
+  IR -> Inter-racial game
+  NAL -> Official Negro American League game (1937-48)
+  NN1 -> Official Negro National League game (original NNL, 1920-31)
+  NN2 -> Official Negro National League game (second NNL, 1933-48)
+  ANL -> Official American Negro League game (1929)
+  ECL -> Official Eastern Colored League game (1923-28)
+  NSL -> Official Negro Southern League game (1932)
+
+A series of flags have been added to game files to identify whether or not
+box-score information was available for the game. There are four flags as
+follows. In all cases, flag values are either "Y" or "N".
+
+flag,box,box1,box2
+flag,box_o,b_ab,b_r,b_rbi
+flag,box_d,d_po,d_a,d_e
+flag,box_p,p_ip,p_h,p_r,p_er,p_w,p_k
+
+Where:
+
+  box1  - indicates whether a box-score exists (Y) or not (N)
+  box2  - indicates whether the box score contains additional information beyond
+          a simple box identifying players and their basic statistics
+  b_ab  - indicates whether the box score indicates batter at bats
+  b_r   - indicates whether the box score identifies runs scored by batter
+  b_rbi - indicates whether the box score identifies RBIs by batter
+  d_po  - indicates whether the box score identifies putouts by fielder
+  d_a   - indicates whether the box score identifies assists by fielder
+  d_e   - indicates whether the box score identifies errors by fielder
+  p_ip  - indicates whether the box score identifies IP by pitcher
+  p_h   - indicates whether the box score identifies hits allowed by pitcher
+  p_r   - indicates whether the box score identifies runs allowed by pitcher
+  p_er  - indicates whether the box score identifies earned runs allowed by
+          pitcher
+  p_w   - indicates whether the box score identifies walks allowed by pitcher
+  p_k   - indicates whether the box score identifies strikeouts by pitcher
+
+stat,bline - a record describing a player's batting and base-running data
+for the game.
+
+For each of the basic player lines in box-score event files - bline, dline, and
+pline - game files also include a parallel line for each team.
+
+These stat lines are identified as tmbline, tmdline, and tmpline, respectively
+and contain the following information.
+
+stat,tmbline,TeamID,side,,,ab,r,h,2b,3b,hr,rbi,sh,sf,hbp,bb,ibb,k,sb,cs,gidp,int
+
+The columns associated with "pos" and "seq" in player blines (related to the
+player's lineup position) are left blank here as these make no sense at the
+team level. They are left blank, rather than removed, however, so that the 
+team batting line (tmbline) lines up with player batting lines (bline) in all
+other regards.
+
+stat,tmdline,TeamID,side,,,if*3,po,a,e,dp,tp,pb
+stat,tmpline,TeamID,side,,ip*3,no-out,bfp,h,2b,3b,hr,r,er,bb,ibb,k,hbp,wp,balk,sh,sf
+
+As with tmblines, the tmdline and tmpline include blanks for various items which
+are not relevant at the team level (defensive position, the sequence of the
+players).
+
+The final new piece of information provided in game files are a new type of
+event file which provides whatever information may be known about the runs
+scored in the game.
+
+The syntax for these lines is as follows:
+
+event,rline,side,inning,bat_run,bat_rbi,pitch_r,pitch_rbi,{seq of events}
+
+Where:
+
+  bat_run -   is the player who scored the run
+  bat_rbi -   is the player who recorded the RBI on the play
+  pitch_r -   is the pitcher to whom the run was charged
+  pitch_rbi - is the pitcher who was on the mound when the run scored
+ {seq of events} then details the plays involved in producing the run,
+              to the extent these are known
+
+Example:
+
+event,rline,1,1,soueh101,broww101,clarv101,clarv101,W,1/G.1-2,S1.2-H
+
+Herb Souell (soueh101) was driven in by Willard Brown (broww101) in the bottom
+of the first inning with Vibert Clarke (clarv101) pitching. The run-scoring
+sequence began with a walk to Souell who advanced to second base on a ground
+out to Clarke and was driven in by Brown on a single which was also fielded
+by Clarke.
