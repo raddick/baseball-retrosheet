@@ -1,0 +1,240 @@
+/*** ESSENTIAL STYLES ***/
+/* center the menubar */
+
+body {
+  background-color: pink;
+}
+
+@media screen and (max-width: 520px) {
+  body {
+    background-color: aqua;
+  }
+}
+
+@media screen and (min-width: 521px) and (max-width: 899px) {
+  body {
+    background-color: yellow;
+  }
+}
+
+.mbcenter {
+  margin-left: auto;
+  margin-right: auto;
+  width: 59em;
+}
+
+.nav {  /* nav goes with the ul */
+  float: left;
+  margin-bottom: 1em;
+  border-right: 1px solid #aec9aa;
+  border-bottom: 1px solid #aec9aa;
+  line-height: 0.7;
+}
+
+.nav, .nav * { /* nav goes with the ul */
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: small; 
+  position: relative;
+/*  width: 100%; */
+}
+
+  .nav li { /* formats first & second level list items */
+    background: #ffffff;
+    border-left: 1px solid #aec9aa;
+    border-top: 1px solid #aec9aa;
+    width: 9.75em;
+    float: left;
+    position: relative;
+/*    z-index: 99; */
+  }
+
+
+  .nav a { /* formats first & second level links */
+    width: 100%;
+    display: block;
+    color: #406830;
+    padding: .75em 0;
+    text-decoration: none;
+    text-indent: 0.25em;
+  }
+
+  .nav ul {   /* formats second-level ul lists */
+    position: relative; 
+    display: none;
+    width: 100%;
+/*    top: -999em; */
+    width: 9.75em;  
+  }
+
+
+
+  .nav ul li { /* formats second-level lists and list items */
+    width: 100%;
+  }
+
+  .nav li:hover, .nav li.sfHover,  /* format of first-level list items when hovered */
+  .nav a:focus, .nav a:hover, .nav a:active {
+    background: #d1dfc9;
+  }
+
+
+  .nav li:hover ul, /* formats second-level lists and list items when first-level list items are hovered */
+  ul.nav li.sfHover ul {
+    display: inline;
+    left: -1px;
+    top: 2.2em;
+  }
+
+  .nav li:hover li ul,
+  .nav li.sfHover li ul {
+    top: -999em;
+  }
+
+  .nav li li:hover ul,
+  ul.nav li li.sfHover ul {
+    left: 9.75em;
+    top: -1px;
+  }
+
+  .superfish li:hover ul,
+  .superfish li li:hover ul {
+    top: -999em;
+  }
+
+
+    .nav li li {  /* list items on second level */
+      background: #aec9aa;
+      border-top: 1px solid #fff;
+      border-right: 1px solid #fff;
+      border-left: 1px solid #fff;
+    }
+
+      .nav li li li {  /* list items on third level (not currently used) */
+        background: #aec9aa;
+      }
+
+
+@media screen and (max-width: 899px) {
+
+  .mbcenter {
+    width: 100%;
+  }
+  .nav {
+    line-height: 1.5;
+    display: flex;
+    flex-direction: column;
+    flex-flow: column wrap;
+    width: 100%;
+  }
+
+  .nav, .nav * { /* nav goes with the ul */
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: medium;
+    position: relative;
+  /*  width: 100%; */
+  }
+
+
+}
+
+@media screen and (max-width: 899px) {
+
+  .nav {
+    line-height: 0.5;
+  }
+
+  .nav, .nav * {
+    font-size: medium; 
+  }
+
+  .nav li {
+      width: 100%;
+  }
+
+  /*
+    .nav ul {  
+      position: relative; 
+      width: 100%;
+    }
+
+    .nav a {
+    }
+*/
+/*
+  .nav li { 
+    background: #ffffff;
+    border-left: 1px solid #aec9aa;
+    border-top: 1px solid #aec9aa;
+    width: 9.75em;
+    float: left;
+    position: relative;
+    z-index: 99;
+  }
+
+
+  .nav a { 
+    width: 100%;
+    display: block;
+    color: #406830;
+    padding: .75em 0;
+    text-decoration: none;
+    text-indent: 0.25em;
+  }
+
+
+  .nav ul {   
+    position: absolute;
+    width: 100%;
+    top: -999em;
+    width: 9.75em; 
+  }
+
+  .nav ul li { 
+    width: 100%;
+  }
+
+  .nav li:hover, .nav li.sfHover,  
+  .nav a:focus, .nav a:hover, .nav a:active {
+    background: #d1dfc9;
+  }
+
+
+  .nav li:hover ul, 
+  ul.nav li.sfHover ul {
+    left: -1px;
+    top: 2.2em;
+  }
+
+  .nav li:hover li ul,
+  .nav li.sfHover li ul {
+    top: -999em;
+  }
+
+  .nav li li:hover ul,
+  ul.nav li li.sfHover ul {
+    left: 9.75em;
+    top: -1px;
+  }
+
+  .superfish li:hover ul,
+  .superfish li li:hover ul {
+    top: -999em;
+  }
+
+
+    .nav li li {  
+      background: #aec9aa;
+      border-top: 1px solid #fff;
+      border-right: 1px solid #fff;
+      border-left: 1px solid #fff;
+    }
+
+      .nav li li li {  
+        background: #aec9aa;
+      }
+*/
+}

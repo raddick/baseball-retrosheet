@@ -1,0 +1,40 @@
+/* reduce overall logo height */
+.logo {
+	margin: 0.6em;
+	padding: 0em;
+	border: 1px solid red;
+}
+
+/* center the logo */
+img.logocenter {
+    display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 0px;
+}
+/* force new line after menubar */
+.clearboth {
+/*	clear: both; */
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.centered {
+	text-align: center;
+}
+
+.nolink {
+	text-decoration: line-through;
+}
+
+/*.header {
+	background-color: springgreen;
+}
+
+.main {
+	background-color: orange;
+}*/
