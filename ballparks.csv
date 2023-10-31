@@ -1,0 +1,261 @@
+PARKID,NAME,AKA,CITY,STATE,START,END,LEAGUE,NOTES
+ALB01,Riverside Park,,Albany,NY,1880-09-11,1882-05-30,NL,TRN:9/11/80;6/15&9/10/1881;5/16-5/18&5/30/1882
+ALT01,Columbia Park,,Altoona,PA,1884-04-30,1884-05-31,UA,
+ANA01,Angel Stadium of Anaheim,Edison Field; Anaheim Stadium,Anaheim,CA,1966-04-19,,AL,
+ARL01,Arlington Stadium,,Arlington,TX,1972-04-21,1993-10-03,AL,
+ARL02,Rangers Ballpark in Arlington,The Ballpark in Arlington; Ameriquest Fl,Arlington,TX,1994-04-11,2019-09-29,AL,
+ARL03,Globe Life Field in Arlington,,Arlington,TX,2020-07-24,,AL,
+ATL01,Atlanta-Fulton County Stadium,,Atlanta,GA,1966-04-12,1996-09-23,NL,
+ATL02,Turner Field,,Atlanta,GA,1997-04-04,2016-10-02,NL,
+ATL03,Suntrust Park,,Atlanta,GA,2017-04-14,,NL,
+BAL01,Madison Avenue Grounds,,Baltimore,MD,1871-07-08,1871-07-08,,WS3
+BAL02,Newington Park,,Baltimore,MD,1872-04-22,1882-09-30,,BL1:1872-74; BL4:1873; BL2: 1882
+BAL03,Oriole Park I,,Baltimore,MD,1883-05-01,1889-10-10,AA,
+BAL04,Belair Lot,,Baltimore,MD,1884-04-17,1884-09-24,UA,BLU:not 8/25
+BAL05,Monumental Park,,Baltimore,MD,1884-08-25,1884-08-25,UA,BLU
+BAL06,Oriole Park II,,Baltimore,MD,1890-08-27,1891-05-09,AA,
+BAL07,Oriole Park III,,Baltimore,MD,1891-05-11,1899-10-10,,BL3:1891; BLN:1892-99
+BAL09,Oriole Park IV,American League Park,Baltimore,MD,1901-04-26,1902-09-29,AL,
+BAL10,Terrapin Park,Oriole Park V,Baltimore,MD,1914-04-13,1915-10-02,FL,
+BAL11,Memorial Stadium,,Baltimore,MD,1954-04-15,1991-09-30,AL,
+BAL12,Oriole Park at Camden Yards,,Baltimore,MD,1992-04-06,,AL,
+BOS01,South End Grounds I,Walpole Street Grounds,Boston,MA,1871-05-16,1887-09-10,,BS1:1871-75; HR1: 8/12/1874; BSN:1876-1887
+BOS02,Dartmouth Grounds,Union Park,Boston,MA,1884-04-30,1884-09-24,UA,BSU
+BOS03,South End Grounds II,,Boston,MA,1888-05-25,1894-05-15,NL,
+BOS04,Congress Street Grounds,,Boston,MA,1890-04-19,1894-06-20,,BSP:1890; BS2:1891; BSN:5/16 to 6/20/1894
+BOS05,South End Grounds III,,Boston,MA,1894-07-20,1914-08-11,NL,
+BOS06,Huntington Avenue Baseball Grounds,,Boston,MA,1901-05-08,1911-10-07,AL,
+BOS07,Fenway Park,,Boston,MA,1912-04-20,,AL,BOS:1912-date; BSN:9/7to9/29/1914;4/14to7/26/15
+BOS08,Braves Field,Bee Hive,Boston,MA,1915-08-18,1952-09-21,,
+BUF01,Riverside Grounds,,Buffalo,NY,1879-05-01,1883-09-08,NL,
+BUF02,Olympic Park I,,Buffalo,NY,1884-05-21,1885-10-07,NL,
+BUF03,Olympic Park II,,Buffalo,NY,1890-04-19,1890-10-04,PL,
+BUF04,International Fair Association Grounds,Federal League Park,Buffalo,NY,1914-05-11,1915-09-29,FL,
+BUF05,Sahlen Field,,Buffalo,NY,2020-08-11,,AL,TOR 2020
+CAN01,Mahaffey Park,Pastime Park,Canton,OH,1890-09-18,1903-06-21,,"PIT 9/18/1890; CLE 6/15/02,5/10&6/21/03"
+CAN02,Pastime Park,,Canton,OH,1890-09-18,1890-09-18,NL,1 PIT game
+CHI01,Lake Front Park I,Union Base-ball Grounds,Chicago,IL,1871-05-08,1871-09-29,,
+CHI02,23rd Street Park,,Chicago,IL,1872-05-29,1877-10-06,,CH2:1874-75; CHN:1876-77
+CHI03,Lake Front Park II,,Chicago,IL,1878-05-14,1882-09-30,NL,
+CHI04,Lake Front Park III,,Chicago,IL,1883-05-05,1884-10-11,NL,
+CHI05,South Side Park I,Cricket Club Grounds; Union Grounds,Chicago,IL,1884-05-02,1884-08-01,UA,
+CHI06,West Side Park,,Chicago,IL,1885-06-06,1891-10-03,NL,CHN:1891(M/W/F)
+CHI07,South Side Park II,,Chicago,IL,1890-04-30,1893-09-27,,CHP:1890;CHN:1891(Tu/Th/Sa);1892-93
+CHI08,West Side Grounds,,Chicago,IL,1893-05-13,1915-10-03,NL,CHN:1893(Sun);1894-1915
+CHI09,South Side Park III,,Chicago,IL,1901-04-24,1910-06-27,AL,
+CHI10,Comiskey Park I,White Sox Park,Chicago,IL,1910-07-01,1990-09-30,AL,
+CHI11,Wrigley Field,Weeghman Park; Cubs Park,Chicago,IL,1914-04-23,,NL,CHF:1914-15; CHN:1916-date
+CHI12,Guaranteed Rate Field;U.S. Cellular Field,White Sox Park; Comiskey Park II,Chicago,IL,1991-04-18,,AL,
+CIN01,Lincoln Park Grounds,Union Cricket Club Grounds,Cincinnati,OH,1871-05-13,1871-07-22,,WS3:5/13&7/4/1871; CL1:7/22/1871
+CIN02,Avenue Grounds,,Cincinnati,OH,1876-04-25,1879-08-27,NL,first Ladies Day (1876)
+CIN03,Bank Street Grounds,,Cincinnati,OH,1880-05-01,1884-10-15,,CN1:1880; CN2:1882-83; CNU:1884
+CIN04,League Park I,,Cincinnati,OH,1884-05-01,1893-09-29,,CN2:1884-89; CIN:1890-93
+CIN05,League Park II,,Cincinnati,OH,1894-04-20,1901-10-02,NL,
+CIN06,Palace of the Fans,League Park III,Cincinnati,OH,1902-04-17,1911-10-06,NL,
+CIN07,Crosley Field,Redland Field,Cincinnati,OH,1912-04-11,1970-06-24,NL,
+CIN08,Cinergy Field,Riverfront Stadium,Cincinnati,OH,1970-06-30,2002-09-22,NL,
+CIN09,Great American Ballpark,,Cincinnati,OH,2003-03-31,,NL,
+CLE01,National Association Grounds,,Cleveland,OH,1871-05-11,1872-08-19,,
+CLE02,League Park I,Kennard Street Park,Cleveland,OH,1879-05-01,1884-10-11,NL,
+CLE03,League Park II,American Association Park,Cleveland,OH,1887-05-04,1890-10-04,,CL3:1887-88; CL4:1889-90
+CLE04,Brotherhood Park,Players League Park,Cleveland,OH,1890-04-30,1890-10-04,PL,
+CLE05,League Park III,National League Park III,Cleveland,OH,1891-05-01,1909-09-06,,CL4:1891-99; CLE:1901-09
+CLE06,League Park IV,Dunn Field,Cleveland,OH,1910-04-21,1946-09-21,AL,CLE:1910-7/30/1932;1934-46
+CLE07,Cleveland Stadium,Municipal Stadium,Cleveland,OH,1932-07-31,1993-10-03,AL,CLE:7/31/1932-9/24/1933; 1947-1993
+CLE08,Progressive Field,Jacobs Field,Cleveland,OH,1994-04-04,,AL,
+CLE09,Cedar Avenue Driving Park,,Cleveland,OH,1887-08-21,1887-08-21,AA,CL3: 1 game
+CLL01,Euclid Beach Park,,Collinwood,OH,1898-06-12,1898-06-19,NL,CL4:6/12&6/19/1898
+COL01,Recreation Park I,,Columbus,OH,1883-05-01,1884-09-22,AA,
+COL02,Recreation Park II,,Columbus,OH,1889-04-28,1891-09-22,AA,
+COL03,Neil Park I,,Columbus,OH,1902-08-03,1903-05-17,AL,CLE:2 games
+COL04,Neil Park II,,Columbus,OH,1905-07-23,1905-07-24,AL,DET:2 games
+COV01,Star Baseball Park,,Covington,KY,1875-09-21,1875-09-21,,PH2
+DAY01,Fairview Park,,Dayton,OH,1902-06-08,1902-06-08,AL,CLE
+DEN01,Mile High Stadium,,Denver,CO,1993-04-09,1994-08-11,NL,
+DEN02,Coors Field,,Denver,CO,1995-04-26,,NL,
+DET01,Recreation Park,,Detroit,MI,1881-05-02,1888-09-22,NL,
+DET02,Bennett Park,,Detroit,MI,1901-04-25,1911-09-10,AL,
+DET03,Burns Park,West End Park,Detroit,MI,1901-04-28,1902-09-07,AL,Sundays only
+DET04,Tiger Stadium,Navin Field; Briggs Stadium,Detroit,MI,1912-04-20,1999-09-27,AL,
+DET05,Comerica Park,,Detroit,MI,2000-04-11,,AL,
+DOV01,Fairview Park Fair Grounds,,Dover,DE,1875-06-24,1875-06-24,,PH1
+DUN01,TD Ballpark,,Dunedin,FL,2021-04-08,2021-05-24,AL,TOR
+DYE01,Field of Dreams,,Dyersville,IA,2021-08-12,,AL,
+ELM01,Maple Avenue Driving Park,,Elmira,NY,1885-10-10,1885-10-10,NL,BFN
+FOR01,Grand Duchess,Hamilton Field,Fort Wayne,IN,1871-05-04,1871-08-29,,First ML game
+FOR02,Swinney Park,,Fort Wayne,IN,1882-10-24,1882-10-24,NL,Last game of playoffs (CHN & PRO)
+FOR03,Jailhouse Flats,,Fort Wayne,IN,1902-06-22,1902-08-31,AL,CLE:2 games
+FTB01,Fort Bragg Field,,Fort Bragg,NC,2016-07-03,2016-07-03,NL,ATL:1 game
+GEA01,Geauga Lake Grounds,,Geauga Lake,OH,1888-09-02,1888-09-02,AA,CL3:1 game
+GLO01,Gloucester Point Grounds,,Gloucester City,NJ,1888-08-05,1890-10-12,AA,Sundays; PH4 6/10/1888
+GLO02,Gloucester Fireworks Park,,Gloucester City,NJ,1888-08-05,1888-08-26,AA,PH4 8/05/1888&08/08/26/1888
+GRA01,Ramona Park,,Grand Rapids,MI,1903-05-24,1903-05-24,AL,DET
+HAR01,Harrison Field,,Harrison,NJ,1915-04-16,1915-10-03,FL,NEW
+HON01,Aloha Stadium,,Honolulu,HI,1997-04-19,1997-04-20,NL,SDN:4/19&4/19&4/20/1997
+HOU01,Colt Stadium,,Houston,TX,1962-04-10,1964-09-27,NL,
+HOU02,Astrodome,,Houston,TX,1965-04-12,1999-10-03,NL,
+HOU03,Minute Maid Park,Enron Field; Astros Field,Houston,TX,2000-04-07,,NL,
+HRT01,Hartford Ball Club Grounds,,Hartford,CT,1874-05-01,1876-09-30,,HR1:1874-75; HAR:1876
+HRT02,Hartford Trotting Park,,Hartford,CT,1872-06-21,1872-08-09,,"MID: 6/21, 7/3, 8/9"
+IND01,South Street Park,,Indianapolis,IN,1878-05-01,1878-09-14,NL,
+IND02,Seventh Street Park I,,Indianapolis,IN,1884-05-14,1884-09-20,AA,
+IND03,Bruce Grounds,,Indianapolis,IN,1884-05-18,1884-09-21,AA,Sundays
+IND04,Seventh Street Park II,,Indianapolis,IN,1887-04-28,1887-10-08,NL,
+IND05,Seventh Street Park III,,Indianapolis,IN,1888-04-20,1889-10-05,NL,
+IND06,Indianapolis Park,,Indianapolis,IN,1890-07-28,1890-08-02,NL,CL4
+IND07,Federal League Park,Washington Park,Indianapolis,IN,1914-04-23,1914-10-08,FL,
+IRO01,Windsor Beach,,Irondequoit,NY,1890-05-11,1890-07-20,AA,RC2: Sundays
+JER01,Oakdale Park,,Jersey City,NJ,1889-04-24,1889-04-25,NL,NY1: 2 games
+JER02,Roosevelt Stadium,,Jersey City,NJ,1956-04-19,1957-09-03,NL,BRO: 7 gms (1956) & 8 gms (1957)
+KAN01,Athletic Park,,Kansas City,MO,1884-06-07,1884-10-19,UA,
+KAN02,Association Park,,Kansas City,MO,1886-04-30,1892-10-15,,KCN:1886; KC2:1888; SLN 1892 (3 games)
+KAN03,Exposition Park,,Kansas City,MO,1889-04-25,1889-09-30,AA,
+KAN04,Gordon and Koppel Field,,Kansas City,MO,1914-04-16,1915-09-28,FL,
+KAN05,Municipal Stadium,,Kansas City,MO,1955-04-12,1972-10-04,AL,KC1:1955-67; KCA:1969-1972
+KAN06,Kauffman Stadium,Royals Stadium,Kansas City,MO,1973-04-10,,AL,
+KEO01,Perry Park,Walte's Pasture,Keokuk,IA,1875-05-04,1875-06-14,,
+LAS01,Cashman Field,,Las Vegas,NV,1996-04-01,1996-04-07,AL,OAK: 6 games
+LBV01,The Ballpark at Disney's Wide World,,Lake Buena Vista,FL,2007-05-15,2008-04-24,AL,TBA 3 games in 2007
+LON01,London Stadium,,London,England,2019-06-29,2019-06-30,AL,
+LOS01,Los Angeles Memorial Coliseum,,Los Angeles,CA,1958-04-18,1961-09-20,NL,
+LOS02,Wrigley Field,,Los Angeles,CA,1961-04-27,1961-10-01,AL,
+LOS03,Dodger Stadium,Chavez Ravine,Los Angeles,CA,1962-04-10,,NL,LAN:1962-prsnt; LAA:1962-9/2/65; CAL:9/2to9/22/65
+LOU01,Louisville Baseball Park,,Louisville,KY,1876-04-25,1877-09-29,NL,
+LOU02,Eclipse Park I,,Louisville,KY,1882-05-05,1893-05-04,,LS2:1882-91; LS3:1892-93
+LOU03,Eclipse Park II,,Louisville,KY,1893-05-22,1899-08-02,NL,
+LOU04,Eclipse Park III,,Louisville,KY,1899-08-22,1899-09-02,NL,
+LUD01,Ludlow Baseball Park,,Ludlow,KY,1875-09-22,1875-09-22,,PH2
+MAS01,Long Island Grounds,,Maspeth,NY,1890-07-27,1890-08-03,AA,BR4: 2 games
+MIA01,Sun Life Stadium,JoeRobbie;ProPlayer;Dolphin;LandShark,Miami,FL,1993-04-05,2011-09-28,NL,
+MIA02,Marlins Park,,Miami,FL,2012-04-04,,NL,
+MID01,Mansfield Club Grounds,,Middletown,CT,1872-05-02,1872-07-04,,
+MIL01,Milwaukee Base-Ball Grounds,,Milwaukee,WI,1878-05-14,1878-09-14,NL,
+MIL02,Wright Street Grounds,,Milwaukee,WI,1884-09-27,1885-09-25,,UA:1884; BFN:9/4/1885; PRO: 9/25/1885
+MIL03,Athletic Park,,Milwaukee,WI,1891-09-10,1891-10-04,AA,
+MIL04,Lloyd Street Grounds,,Milwaukee,WI,1901-05-03,1901-09-12,AL,
+MIL05,County Stadium,,Milwaukee,WI,1953-04-14,2000-09-28,,MLN:1953-65; CHA:9gms(1968)&11gms(1969);MIL:70-00
+MIL06,Miller Park,,Milwaukee,WI,2001-04-06,,NL,
+MIN01,Athletic Park,,Minneapolis,MN,1891-10-02,1891-10-02,AA,ML2
+MIN02,Metropolitan Stadium,,Bloomington,MN,1961-04-21,1981-09-30,AL,
+MIN03,Hubert H. Humphrey Metrodome,,Minneapolis,MN,1982-04-06,2009-10-06,AL,
+MIN04,Target Field,,Minneapolis,MN,2010-04-12,,AL,
+MNT01,Estadio Monterrey,,Monterrey,MX,1996-08-16,1999-04-04,NL,SDN:8/16&8/17&8/18/1996; 4/4/1999
+MON01,Parc Jarry,Jarry Park,Montreal,QUE,1969-04-14,1976-09-29,NL,
+MON02,Stade Olympique,Olympic Stadium,Montreal,QUE,1977-04-15,2004-09-29,NL,
+NEW01,Howard Avenue Grounds,Brewster Park,New Haven,CT,1875-04-21,1875-10-28,,
+NEW02,Hamilton Park,,New Haven,CT,1875-04-21,1875-04-21,,
+NEW03,Beyerle's Park,Forest City Park,Newburgh Township,OH,1888-07-22,1888-08-26,AA,CL3:7/22&7/29&8/26
+NWK01,Wiedenmeyer's Park,,Newark,NJ,1904-07-17,1904-07-17,AL,NYA
+NYC01,Union Grounds,,Brooklyn,NY,1871-05-09,1877-09-21,,NY2:1871-75;BR1:1872;BR2:1873-75;NY3:1876;HAR:1877
+NYC02,Capitoline Grounds,,Brooklyn,NY,1872-05-06,1872-10-09,,BR2
+NYC03,Polo Grounds I (Southeast Diamond),,New York,NY,1883-05-01,1888-10-13,,NY1:1883-88; NY4:7/17/1884-1885
+NYC04,Polo Grounds II (Southwest Diamond),,New York,NY,1883-05-30,1883-10-25,AA,
+NYC05,Washington Park I,,Brooklyn,NY,1884-05-05,1889-05-04,AA,BR3
+NYC06,Metropolitan Park,,New York,NY,1884-05-13,1884-08-23,AA,
+NYC07,Grauer's Ridgewood Park,Ridgewood Park I,Queens,NY,1886-05-02,1886-09-19,AA,BR3: Sundays (1886)
+NYC08,Washington Park II,,Brooklyn,NY,1889-05-30,1890-10-03,,BR3:1889; BRO:1890
+NYC09,Polo Grounds III,,New York,NY,1889-07-08,1890-09-13,NL,
+NYC10,Polo Grounds IV,,New York,NY,1890-04-19,1911-04-13,,NYP:1890; NY1:1891-1911
+NYC11,Eastern Park,,Brooklyn,NY,1890-04-28,1897-10-02,,BRP:1890; BRO:1891-97
+NYC12,Washington Park III,,Brooklyn,NY,1898-04-30,1912-11-01,,BRO:1898-1912
+NYC13,Hilltop Park,,New York,NY,1903-04-30,1912-10-05,,NYA:1903-1912; NY1: 4/15 to 5/30/1911
+NYC14,Polo Grounds V,,New York,NY,1911-06-28,1963-09-18,,NY1:1911-1957;NYA:1913-1922;NYN:1962-63
+NYC15,Ebbets Field,,Brooklyn,NY,1913-04-09,1957-09-24,NL,
+NYC16,Yankee Stadium I,,New York,NY,1923-04-18,2008-09-21,AL,no games 1974-75
+NYC17,Shea Stadium,William A. Shea Stadium,New York,NY,1964-04-17,2008-09-28,NL,NYN:1964-2008; NYA:1974-75
+NYC18,Wallace's Ridgewood Park,Ridgewood Park II,Queens,NY,1887-04-24,1890-06-08,AA,BR3: Sundays (1887-89); BR4: 1890
+NYC19,Washington Park IV,,Brooklyn,NY,1914-04-01,1915-11-01,FL,
+NYC20,Citi Field,,New York,NY,2009-04-13,,NL,
+NYC21,Yankee Stadium II,,New York,NY,2009-04-16,,AL,
+OAK01,Oakland-Alameda County Coliseum,Network Associates Coliseum,Oakland,CA,1968-04-17,,AL,
+OMA01,TD Ameritrade Park,,Omaha,NE,2019-06-13,2019-06-13,AL,KCA
+PEN01,East End Park,Pendleton Park,Cincinnati,OH,1891-04-25,1891-08-13,AA,CN3
+PHI01,Jefferson Street Grounds,Athletics Park,Philadelphia,PA,1871-05-15,1890-10-11,,PH1:1871-75; PH2:1873-75; PHN:1876; PH4:1883-1890
+PHI02,Centennial Park,,Philadelphia,PA,1875-04-21,1875-05-24,,PH3
+PHI03,Oakdale Park,,Philadelphia,PA,1882-05-02,1882-09-21,AA,PH4
+PHI04,Recreation Park,,Philadelphia,PA,1883-05-01,1886-10-09,NL,
+PHI05,Keystone Park,,Philadelphia,PA,1884-04-17,1884-08-07,UA,
+PHI06,Huntingdon Grounds I,,Philadelphia,PA,1887-04-30,1894-08-06,NL,no games 8/7 to 8/17/1894; fire 8/6/1894
+PHI07,Forepaugh Park,,Philadelphia,PA,1890-04-30,1891-10-05,,PHP:1890; PH4:1891
+PHI08,University of Penn. Athletic Field,,Philadelphia,PA,1894-08-11,1894-08-17,NL,PHI:8/11&8/14 to 8/17/1894
+PHI09,Baker Bowl,,Philadelphia,PA,1895-05-02,1938-06-30,NL,PHI:not 8/20 to 9/10/1903
+PHI10,Columbia Park,,Philadelphia,PA,1901-04-26,1908-10-03,,PHA; PHI:8/20 to 9/10/1903
+PHI11,Shibe Park,Connie Mack Stadium,Philadelphia,PA,1909-04-12,1970-10-01,,PHA:1909-1954; PHI:5/16to5/28/1927;7/4/1938to1970
+PHI12,Veterans Stadium,,Philadelphia,PA,1971-04-10,2003-09-28,NL,
+PHI13,Citizens Bank Park,,Philadelphia,PA,2004-04-12,,NL,
+PHI14,Huntingdon Grounds II,,Philadelphia,PA,1894-08-18,1894-09-06,NL,Temporary structure after fire on August 6
+PHO01,Chase Field,Bank One Ballpark,Phoenix,AZ,1998-03-31,,NL,
+PIT01,Union Park,,Pittsburgh,PA,1878-08-22,1878-08-24,NL,PRO: 3 games
+PIT02,Exposition Park I,Lower Field,Pittsburgh,PA,1882-05-09,1884-08-30,,PT1:1882-1883; PTU: 8/25 to 8/30/1884
+PIT03,Exposition Park II,Upper Field,Pittsburgh,PA,1883-05-01,1883-06-09,AA,PT1
+PIT04,Recreation Park,,Pittsburgh,PA,1884-05-01,1890-09-30,,PT1:1884-1886; PIT:1887-1890
+PIT05,Exposition Park III,,Pittsburgh,PA,1890-04-19,1915-10-02,,PTP:1890; PIT:1891-6/29/1909; PTF:1914-15
+PIT06,Forbes Field,,Pittsburgh,PA,1909-06-30,1970-06-28,NL,
+PIT07,Three Rivers Stadium,,Pittsburgh,PA,1970-07-16,2000-10-01,NL,
+PIT08,PNC Park,,Pittsburgh,PA,2001-04-09,,NL,
+PRO01,Adelaide Avenue Grounds,,Providence,RI,1875-06-12,1875-06-22,,NH1: 6/12/1875; BS1: 6/22/1875
+PRO02,Messer Street Grounds,,Providence,RI,1878-05-01,1885-09-09,NL,
+RCK01,Agricultural Society Fair Grounds,,Rockford,IL,1871-05-05,1871-09-26,,
+RIC01,Richmond Fair Grounds,,Richmond,VA,1875-04-29,1875-05-01,,WS6: 2 games
+RIC02,Allens Pasture,,Richmond,VA,1884-08-05,1884-10-15,AA,
+ROC01,Culver Field I,,Rochester,NY,1890-04-28,1890-10-06,AA,
+ROC02,Culver Field II,,Rochester,NY,1898-08-27,1898-08-29,NL,CL4: 2 games
+ROC03,Ontario Beach Grounds,,Rochester,NY,1898-08-28,1898-08-28,NL,CL4
+SAI01,St. George Cricket Grounds,,New York,NY,1886-04-22,1889-06-14,,NY4:1886-87; NY1:4/29 to 6/14/1889
+SAN01,Qualcomm Stadium,San Diego/Jack Murphy Stadium,San Diego,CA,1969-04-08,2003-09-28,NL,
+SAN02,PETCO Park,,San Diego,CA,2004-04-08,,NL,
+SEA01,Sick's Stadium,,Seattle,WA,1969-04-11,1969-10-02,AL,
+SEA02,Kingdome,,Seattle,WA,1977-04-06,1999-06-27,AL,
+SEA03,Safeco Field,,Seattle,WA,1999-07-15,,AL,
+SFO01,Seals Stadium,,San Francisco,CA,1958-04-15,1959-09-20,NL,
+SFO02,Candlestick Park,3Com Park,San Francisco,CA,1960-04-12,1999-09-30,NL,
+SFO03,AT&T Park,Pacific Bell Park; SBC Park,San Francisco,CA,2000-04-11,,NL,
+SJU01,Estadio Hiram Bithorn,,San Juan,PR,2001-04-01,2010-06-30,NL,"TOR: 4/1/2001; MON:4/11-20,6/3-8,9/5-11/2003"
+SPR01,Hampden Park Race Track,Springfield Track,Springfield,MA,1872-07-23,1875-05-14,,"TRO:7/23/1872; BS1:7/16/1873,5/14/1875"
+STL01,Red Stockings Base Ball Park,,St. Louis,MO,1875-05-04,1875-07-04,,SL1
+STL02,Grand Avenue Park,,St. Louis,MO,1875-05-06,1877-10-06,,SL2:1875; SL3:1876-1877
+STL03,Sportsman's Park I,,St. Louis,MO,1882-05-02,1892-10-13,,SL4:1882-1891; SLN:1892
+STL04,Union Grounds,,St. Louis,MO,1884-04-20,1886-09-23,,SLU:1884; SL5:1885-86
+STL05,Robison Field,,St. Louis,MO,1893-04-27,1920-06-06,NL,
+STL06,Sportsman's Park II,,St. Louis,MO,1902-04-23,1908-10-06,AL,
+STL07,Sportsman's Park III,Busch Stadium I,St. Louis,MO,1909-04-14,1966-05-08,,SLA:1909-1953; SLN:7/1/1920 to 5/8/1966
+STL08,Handlan's Park,Federal League Park,St. Louis,MO,1914-04-16,1915-10-03,FL,
+STL09,Busch Stadium II,,St. Louis,MO,1966-05-12,2005-10-02,NL,
+STL10,Busch Stadium III,,St. Louis,MO,2006-04-10,,NL,
+STP01,Tropicana Field,,St. Petersburg,FL,1998-03-31,,AL,
+SYD01,Sydney Cricket Ground,,Sydney,Australia,2014-03-22,2014-03-23,NL,
+SYR01,Star Park I,Newell Park,Syracuse,NY,1879-05-28,1879-09-10,NL,
+SYR02,Star Park II,,Syracuse,NY,1890-04-28,1890-10-06,AA,
+SYR03,Iron Pier,,Syracuse,NY,1890-08-03,1890-08-03,AA,Forfeit by LS2 to SR2; no game ever played here
+THR01,Three Rivers Park,,Three Rivers,NY,1890-05-18,1890-07-20,AA,SR2: Sundays
+TOK01,Tokyo Dome,,Tokyo,JAP,2000-03-29,2008-03-26,,NYN&CHN:2000;NYA&TBA:2004;BOS&OAK:2008
+TOL01,League Park,,Toledo,OH,1884-05-14,1884-09-23,AA,
+TOL02,Tri-State Fair Grounds,,Toledo,OH,1884-09-13,1884-09-13,AA,
+TOL03,Speranza Park,,Toledo,OH,1890-05-01,1890-10-02,AA,
+TOL04,Armory Park,,Toledo,OH,1903-06-28,1903-08-16,AL,DET: 2 games
+TOR01,Exhibition Stadium,,Toronto,ONT,1977-04-07,1989-05-28,AL,first game: snow covering outfield
+TOR02,Rogers Centre,Skydome,Toronto,ONT,1989-06-05,,AL,
+TRO01,Haymakers' Grounds,,Troy,NY,1871-05-09,1881-09-30,,TRO:1871-72; TRN: 1880-81
+TRO02,Putnam Grounds,,Troy,NY,1879-05-28,1882-05-30,NL,TRN: 05/30/1882 (Gm 2)
+WAR01,Rocky Point Park,,Warwick,RI,1903-09-06,1903-09-06,NL,BSN; outfield surrounded by ocean
+WAS01,Olympic Grounds,,Washington,DC,1871-05-04,1875-06-08,,WS3:1871-1872; WS5:1873; WS6:1875
+WAS02,National Grounds,,Washington,DC,1872-04-20,1872-05-25,,WS4
+WAS03,Capitol Grounds,,Washington,DC,1884-04-18,1884-09-25,UA,
+WAS04,Athletic Park,,Washington,DC,1884-05-01,1884-08-05,AA,
+WAS05,Swampoodle Grounds,,Washington,DC,1886-04-29,1889-09-21,NL,
+WAS06,Boundary Field,,Washington,DC,1891-04-13,1899-10-14,,WS9:1891; WSN: 1892-1899
+WAS07,American League Park I,,Washington,DC,1901-04-29,1903-09-29,AL,first PA announcer (1902)
+WAS08,American League Park II,,Washington,DC,1904-04-14,1910-10-06,AL,
+WAS09,Griffith Stadium,,Washington,DC,1911-04-12,1961-09-21,AL,WS1:1911-60; WS2:1961
+WAS10,Robert F. Kennedy Stadium,D.C. Stadium,Washington,DC,1962-04-09,2007-09-23,,AL:1962-71; NL:2005-07
+WAS11,Nationals Park,,Washington,DC,2008-03-30,,NL,
+WAT01,Troy Ball Club Grounds,,Watervliet,NY,1882-05-20,1882-08-26,NL,TRN
+WAV01,Waverly Fairgrounds,,Waverly,NJ,1873-04-28,1873-07-23,,ELI
+WEE01,Monitor Grounds,,Weehawken,NJ,1887-09-11,1887-09-11,AA,NY4
+WHE01,Island Grounds,,Wheeling,WV,1890-09-22,1890-09-22,NL,PIT
+WIL01,Union Street Park,,Wilmington,DE,1884-09-02,1884-09-15,UA,9/15 forfeit
+WIL02,BB&T Ballpark at Bowman Field,,Williamsport,PA,2017-08-20,2017-08-20,NL,PIT
+WNY01,West New York Field Club Grounds,,West New York,NJ,1898-09-11,1899-09-17,NL,"BRO:9/18&10/2/1898; NY1:9/11/98, 6/4&7/16&8/13&9/17/99"
+WOR01,Agricultural County Fair Grounds I,,Worcester,MA,1880-05-01,1882-09-29,NL,
+WOR02,Agricultural County Fair Grounds II,,Worcester,MA,1887-08-17,1887-08-17,NL,1 BSN game
+WOR03,Worcester Driving Park Grounds,,Worcester,MA,1874-10-30,1874-10-30,,1 BS1 game
